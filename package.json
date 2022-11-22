@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/FaizanWani133/masailib-backend/issues"
   },
-  "homepage": "https://github.com/FaizanWani133/masailib-backend#readme"
+  "homepage": "https://github.com/FaizanWani133/masailib-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
 }
